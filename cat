@@ -1,0 +1,18 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    string catname = "Olie";
+    cout << "Era uma vez uma casa não muito feliz" << endl;
+    cout << "Certo dia, então, chegou um pequenho gato à esta casa" << endl;
+    cout << "O gatinho recém-chegado, apesar de seu tamanho, tinha enormes orelhas e era muito desbravador" << endl;
+    cout << "Seu nome era " << catname << ", e aos poucos, a casa se tornou seu lar, e as pessoas que ali viviam, sua familia." << endl;
+    
+    catname = "Mina";
+    cout << "Em seguida apareceu mais um bichinho, desta vez uma gatinha, carinhosamente nomeada de " << catname << ", " << catname << " muito feliz por ter sido resgatada da rua fria, também acolheu os moradores daquela casa como sua família." << endl;
+    
+    
+    return 0;
+}
